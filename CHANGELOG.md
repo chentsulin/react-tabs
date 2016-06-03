@@ -1,3 +1,11 @@
+v0.5.4 - Fri, 03 Jun 2016 08:35:43 GMT
+--------------------------------------
+
+- [c432a08](../../commit/c432a08) [fixed] Server Side Rendering won't work with default styles #45
+- [53c7ccb](../../commit/53c7ccb) [fixed] Removing ReactDOM from bundle
+- [e05a9ec](../../commit/e05a9ec) [fixed] Issue when conditionally rendering Tab/TabPanel closes #37
+
+
 v0.5.3 - Mon, 01 Feb 2016 16:09:12 GMT
 --------------------------------------
 
